@@ -1,3 +1,4 @@
+git remote add origin https://github.com/YOUR_USERNAME/bank-ledger.git
 HELP.md
 .gradle
 build/
