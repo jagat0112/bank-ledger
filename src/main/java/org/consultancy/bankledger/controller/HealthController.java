@@ -8,5 +8,5 @@ public class HealthController {
 
     @GetMapping("/health")
     public String health() {
-        return "Bank ledger service is up and CI/CD is live!";git a    }
+        return "Bank ledger service is up and CI/CD is live!";   }
 }
